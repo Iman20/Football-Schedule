@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tab" type="id"/>
+    <item name="viewpager" type="id"/>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="date" type="id"/>
+    <item name="team1" type="id"/>
+    <item name="team2" type="id"/>
+    <item name="score_team1" type="id"/>
+    <item name="score_team2" type="id"/>
+    <item name="imageHome" type="id"/>
+    <item name="imageAway" type="id"/>
+    <item name="progressBar" type="id"/>
+    <item name="goalHome" type="id"/>
+    <item name="goalAway" type="id"/>
+    <item name="shootHome" type="id"/>
+    <item name="shootAway" type="id"/>
+    <item name="lineupHome" type="id"/>
+    <item name="lineupAway" type="id"/>
+    <item name="gkHome" type="id"/>
+    <item name="gkAway" type="id"/>
+    <item name="difHome" type="id"/>
+    <item name="difAway" type="id"/>
+    <item name="midHome" type="id"/>
+    <item name="midAway" type="id"/>
+    <item name="forHome" type="id"/>
+    <item name="forAway" type="id"/>
+    <item name="subHome" type="id"/>
+    <item name="subAway" type="id"/>
+    <item name="layContent" type="id"/>
+    <item name="toolbar" type="id"/>
+</resources>
